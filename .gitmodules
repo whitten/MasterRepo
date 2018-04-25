@@ -19,3 +19,6 @@
 [submodule "univar"]
 	path = univar
 	url = https://github.com/koo5/univar
+[submodule "hackery2"]
+	path = hackery2
+	url = https://github.com/koo5/hackery2
