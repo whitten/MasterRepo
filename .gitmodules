@@ -25,3 +25,6 @@
 [submodule "Library"]
 	path = Library
 	url = https://github.com/sto0pkid/Library
+[submodule "freeskool"]
+	path = freeskool
+	url = https://github.com/johm/freeskool
