@@ -1,0 +1,15 @@
+[submodule "stoopkidOS"]
+	path = stoopkidOS
+	url = https://github.com/sto0pkid/stoopkidOS
+[submodule "EuclideanAlgorithm"]
+	path = EuclideanAlgorithm
+	url = https://github.com/sto0pkid/EuclideanAlgorithm
+[submodule "AutoNomic"]
+	path = AutoNomic
+	url = https://github.com/sto0pkid/AutoNomic
+[submodule "LemonChain"]
+	path = LemonChain
+	url = https://github.com/sto0pkid/LemonChain
+[submodule "WikiMods"]
+	path = WikiMods
+	url = https://github.com/sto0pkid/WikiMods
