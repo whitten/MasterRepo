@@ -13,3 +13,9 @@
 [submodule "WikiMods"]
 	path = WikiMods
 	url = https://github.com/sto0pkid/WikiMods
+[submodule "new_shit"]
+	path = new_shit
+	url = https://github.com/koo5/new_shit
+[submodule "univar"]
+	path = univar
+	url = https://github.com/koo5/univar
