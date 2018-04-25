@@ -22,3 +22,6 @@
 [submodule "hackery2"]
 	path = hackery2
 	url = https://github.com/koo5/hackery2
+[submodule "Library"]
+	path = Library
+	url = https://github.com/sto0pkid/Library
