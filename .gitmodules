@@ -28,3 +28,6 @@
 [submodule "freeskool"]
 	path = freeskool
 	url = https://github.com/johm/freeskool
+[submodule "CategoryTheory"]
+	path = CategoryTheory
+	url = https://github.com/sto0pkid/CategoryTheory
